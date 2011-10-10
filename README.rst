@@ -1,4 +1,5 @@
 Simple twitter bot
+--------------
 
 Requires a ``config.py`` file with the following details::
 
