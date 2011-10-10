@@ -1,8 +1,8 @@
 Simple twitter bot
 --------------
 
-Requires a ``config.py`` file with the following details
-```
+Requires a ``config.py`` file with the following details::
+
 OAUTH_APP_SETTINGS = {
     'twitter': {
         'consumer_key': '',
@@ -14,4 +14,3 @@ OAUTH_APP_SETTINGS = {
         'default_api_suffix': '.json',
     },
 }
-```
