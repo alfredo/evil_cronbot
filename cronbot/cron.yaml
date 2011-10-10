@@ -1,0 +1,4 @@
+cron:
+- description: search for content and answer back
+  url: /evilcronbot/search-and-tweet/
+  schedule: every 10 minutes

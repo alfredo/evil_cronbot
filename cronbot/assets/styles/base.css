@@ -1,0 +1,25 @@
+body
+{
+    font-family: Verdana, Helvetica, sans-serif;
+    background-color: #DDDDDD;
+}
+
+h1
+{
+    font-family: 'PT Serif Caption', arial, serif;
+}
+
+.logo
+{
+ position: absolute;
+ bottom: 0;
+ right: 0;
+}
+
+footer
+{
+ position: absolute;
+ bottom: 0;
+ left: 0;
+ padding: 20px;
+}
