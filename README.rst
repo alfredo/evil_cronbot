@@ -1,4 +1,4 @@
-Simple twitter bot
+Simple twitter bot for appengine
 --------------
 
 Requires a ``config.py`` file with the following details::
